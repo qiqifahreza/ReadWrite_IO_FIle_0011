@@ -1,0 +1,48 @@
+nama: hasan
+Umur: 20
+ID: 2001
+Jenis: Mahasiswa
+Departemen: informatika
+Buku yang Di pinjam: [System Operation Foundations]
+Jumlah Buku yang Di pinjam: 1
+
+nama: Pak Ibnu
+Umur: 31
+ID: 1001
+Jenis: Dosen
+Pengampu Mata Kuliah: Kalkulus
+Buku yang Di pinjam: []
+Jumlah Buku yang Di pinjam: 0
+
+nama: Joy
+Umur: 27
+ID: 5001
+Jenis: Karyawan
+Jabatan: Kepala Bagian
+Buku yang Di pinjam: [System Operation Foundations, System Operation Foundations, System Operation Foundations, System Operation Foundations]
+Jumlah Buku yang Di pinjam: 4
+
+nama: reyhan
+Umur: 19
+ID: 2101
+Jenis: Mahasiswa
+Departemen: management
+Buku yang Di pinjam: []
+Jumlah Buku yang Di pinjam: 0
+
+nama: Bu Lesti
+Umur: 31
+ID: 1002
+Jenis: Dosen
+Pengampu Mata Kuliah: Pengantar Teknologi Informasi
+Buku yang Di pinjam: [Thomas Calculus]
+Jumlah Buku yang Di pinjam: 1
+
+nama: Albar
+Umur: 30
+ID: 5101
+Jenis: Karyawan
+Jabatan: Pengawas
+Buku yang Di pinjam: []
+Jumlah Buku yang Di pinjam: 0
+
