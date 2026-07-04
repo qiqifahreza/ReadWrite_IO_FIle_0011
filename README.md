@@ -1,8 +1,9 @@
 ### Output
 
 ```bash
- Sun  5 Jul - 03:19  /run/media/Windows-SSD/Users/LENOVO LOQ 15TRX9/Documents/Kuliah/Semester 2/Pemrograman 2/ReadWrite_IO_FIle_0011   origin ☊ main ✔ 
- @zie  cd /run/media/Windows-SSD/Users/LENOVO\ LOQ\ 15TRX9/Documents/Kuliah/Semester\ 2/Pemrograman\ 2/ReadWrite_IO_FIle_0011 ; /usr/bin/env /usr/lib/jvm/openlogic-openjdk-17-hotspot/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /home/zie/.config/Code/User/workspaceStorage/e4cf6e114d89f486d26f173673e80bf5/redhat.java/jdt_ws/ReadWrite_IO_FIle_0011_68cad806/bin Main
+ Sun  5 Jul - 03:19  ./ReadWrite_IO_FIle_0011   origin ☊ main ✔ 
+ @zie  cd ./ReadWrite_IO_FIle_0011 ; /usr/bin/env /usr/lib/jvm/openlogic-openjdk-17-hotspot/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp ~/.config/Code/User/workspaceStorage/e4cf6e114d89f486d26f173673e80bf5/redhat.java/jdt_ws/ReadWrite_IO_FIle_0011_68cad806/bin Main
+
 === DAFTAR BUKU ===
 Judul: System Operation Foundations  |  Stock: 5
 Judul: Thomas Calculus  |  Stock: 3
